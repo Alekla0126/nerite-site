@@ -1,7 +1,7 @@
 # nerite-site
 
 Redirects only. The legal pages for Nerite are served from
-**https://alekla.com/nerite/** and their source lives in the app repository
+**https://nerite.alekla.com/** and their source lives in the app repository
 under `site/`, published with `site/deploy.sh`.
 
 This repository existed first, while the domain was being sorted out. It is
